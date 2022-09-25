@@ -1,0 +1,1 @@
+odds = values => values.filter(element => element % 2)
