@@ -1,0 +1,1 @@
+summation = num => Array(num).fill(0).reduce((prev,_,index) => prev + index +1, 0)
